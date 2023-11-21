@@ -1,0 +1,67 @@
+body{ 
+    font-family: Arial, sans-serif; 
+    padding: 20px;
+     background: #fff;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+html.body{
+    height: 100%;
+}
+.maincontainer h1{
+    color: #fff;
+    text-align: center;
+}
+form label{
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    color: #fff;
+}
+
+form input[type="text"]{
+    width: 90%;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    border:2px solid #8f94fb;
+    box-shadow: 0px 0px 11px 4px rgba(0,0,0,0.25);
+}
+
+form button{
+width:80%;
+height: auto;
+min-height:3S0px;
+padding:40px; 
+border-radius: 30px;
+box-shadow: Opx Opx llpx 4px Orgba(0, 0, 0, 0.25);
+background: 0 #4e54c8;
+background: -webkit-linear-gradient(to right, litt8f94fb, 0444eS4c8);
+background: linear-gradient(to right, 11#8f94fb, Mi#4e54c8);
+margin: auto;
+} 
+
+#copy-btn{
+background-color: Ilffff; 
+color: 11#8f94fb;
+border: none; 
+padding: Spx lOpx; 
+cursor: pointer;
+border-radius: lOpx; 
+font-size: 2Spx; 
+margin-top: 20px;
+}
+
+.credit a {
+    text-decoration: none; 
+    color: 0#000;
+    font-weight• 800;
+} 
+.credit {
+    text-align: center;
+    margin-top: lOpx;
+    font-family: Verdana,Geneva,Tahoma,sans-serif;
+} 
